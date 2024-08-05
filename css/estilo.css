@@ -11,6 +11,7 @@
     font-family: Figtree-bold;
     src: url(../assets/fontes/static/Figtree-ExtraBold.ttf);
 }
+/* DEFINIÇÕES GERAIS */
 *{
     margin: 0;
     padding: 0;
@@ -28,8 +29,94 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-color: #fff;
+    background-color: #f4d04e;
     font-family: Figtree;
     font-size: 16px;
     color: #121212;
 }
+
+/* Estilização da main*/
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4d04e;
+    transition: width 1s;
+    
+}
+/* Estilização do card */
+.card{
+    max-width: 375px;
+    height: 490px;
+    padding: 20px;
+    border-radius: 24px;
+    border: 2px solid #121212;
+    box-shadow: 5px 5px 0px 0px #121212;
+    background-color: #fff;
+}
+/* Estilização da imagem*/
+.img img{
+   border-radius: 14px;
+}
+/* Estilização do conteudo */
+.conteudo{
+    margin-top: 16px;
+}
+h1{
+    font-family: figtree-bold;
+    background-color: #f4d04e;
+    padding: 5px;
+    border-radius: 4px;
+    width: 40%;
+    text-align: center;
+}
+a.titulo{
+    display: inline-block;
+    margin-top: 16px;
+    font-family: figtree-bold;
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: #f4d04e;
+}
+p{
+    margin-top: 12px;
+    font-size: 1rem;
+}
+p.public{
+    font-family: figtree-semibold;
+    font-size: 0.8rem;
+}
+/* Estilização da area do autor */
+div.autor{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 26px;
+}
+h2{
+    font-size: 0.9rem;
+    font-family: figtree-bold;
+}
+/* Estilização do atributo*/
+div.atributo{
+    margin-top: 16px;
+    max-width: 375px;
+    font-size: 0.8rem;
+    font-family: figtree-semibold;
+}
+a{
+    text-decoration: none;
+    font-family: figtree;
+    color: #121212;
+}
+/* Ao passar o mouse */
+a:hover{
+    cursor: pointer;
+    color: #6b6b6b;
+}
+
+
+
