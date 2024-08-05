@@ -1,0 +1,35 @@
+@charset "UTF-8";
+@font-face {
+    font-family:Figtree;
+    src: url(../assets/fontes/Figtree-VariableFont_wght.ttf) format(opentype);
+}
+@font-face {
+    font-family: Figtree-semibold;
+    src: url(../assets/fontes/static/Figtree-SemiBold.ttf) format(opentype);
+}
+@font-face {
+    font-family: Figtree-bold;
+    src: url(../assets/fontes/static/Figtree-ExtraBold.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-weight: normal;
+}
+:root{
+    --branco:#fff;
+    --amarelo:#f4d04e;
+    --cinza-500:#6b6b6b;
+    --cinza-950: #121212;
+
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    font-family: Figtree;
+    font-size: 16px;
+    color: #121212;
+}
