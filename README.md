@@ -14,10 +14,10 @@ Este projeto consiste na apresentação de um card com um artigo explicando brev
 
 ## Contruído com
 
--Marcação HTML5 semântica
--Propriedades CSS personalizadas
--Flexbox
--Conponentes de estilo
+- Marcação HTML5 semântica
+- Propriedades CSS personalizadas
+- Flexbox
+- Conponentes de estilo
 
 ## Oque aprendi
 
@@ -34,7 +34,7 @@ Depois disso eu apliquei em todos os elementos a font-size: rem. Pois ela é uma
 
 ## Autor
 
--[Denner-Silva](https://www.instagram.com/opretodenner/)
+- [Denner-Silva](https://www.instagram.com/opretodenner/)
 
 ## Agradecimento
 
