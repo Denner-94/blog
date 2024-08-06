@@ -10,7 +10,7 @@ Este projeto consiste na apresentação de um card com um artigo explicando brev
 
 -[URL-da-solução](https://github.com/Denner-94/blog)
 -[URL-do-site-ativo-github](https://denner-94.github.io/blog/)
--[URL-do-site-ativo-vercel]()
+-[URL-do-site-ativo-vercel](https://blog-ten-tan-48.vercel.app/)
 
 ## Contruído com
 
@@ -19,18 +19,21 @@ Este projeto consiste na apresentação de um card com um artigo explicando brev
 -Flexbox
 -Conponentes de estilo
 
-## Oque aprendi 
+## Oque aprendi
 
 Na verdade apliquei o que aprendi no W3C sobre unidades relativas de medida, como por exemplo a unidade rem. Para o projeto primeiro defini em meu body a font-size na unidade px:
+
 ```css
 body{
     font-size: 16px;
 }
 ```
+
 Depois disso eu apliquei em todos os elementos a font-size: rem. Pois ela é uma unidade relativa a fonte-size raiz do documento.
 *Se eu estiver equivocado sobre essa informção, fique a vontade em passar seu feedback*
 
 ## Autor
+
 -[Denner-Silva](https://www.instagram.com/opretodenner/)
 
 ## Agradecimento
