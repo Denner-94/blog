@@ -1,4 +1,33 @@
-@media screen and (min-width:726px) and (max-width:920px){
+/* MOBILE */
+@media screen and (max-width:767px){
+    .img img{
+        max-width: 265px;
+    }
+    .card{
+        max-width: 300px;
+        height: 460px;
+        padding: 16px;
+    }
+    h1{
+        width: 50%;
+    }
+    a.titulo{
+        font-size: 1.2rem; 
+    }
+    p{
+        font-size: 1rem;
+    }
+    p.public{
+        font-family: figtree-bold;
+        font-size: 0.6rem;
+    }
+    /* Estilização do atributo*/
+    div.atributo{
+        max-width: 350px;   
+    } 
+}
+/* TABLET*/
+@media screen and (min-width:767px) and (max-width:1023px){
     body{
         background-color: #fff;
         display: flex;
@@ -8,8 +37,6 @@
     .hero{
         max-width: 500px;
         max-height: 600px;
-        box-shadow: 3px 3px 16px 3px #6b6b6b50;
-        
-        
+        box-shadow: 3px 3px 16px 3px #6b6b6b50; 
     }
 }
