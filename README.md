@@ -8,9 +8,9 @@ Este projeto consiste na apresentação de um card com um artigo explicando brev
 
 ## Links
 
--[URL-da-solução](https://github.com/Denner-94/blog)
--[URL-do-site-ativo-github](https://denner-94.github.io/blog/)
--[URL-do-site-ativo-vercel](https://blog-ten-tan-48.vercel.app/)
+- [URL-da-solução](https://github.com/Denner-94/blog)
+- [URL-do-site-ativo-github](https://denner-94.github.io/blog/)
+- [URL-do-site-ativo-vercel](https://blog-ten-tan-48.vercel.app/)
 
 ## Contruído com
 
